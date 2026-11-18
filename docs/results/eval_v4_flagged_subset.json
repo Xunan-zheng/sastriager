@@ -1,0 +1,328 @@
+{
+  "subset": "complete",
+  "cases": 1769,
+  "thresholds": {
+    "0.5": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 155,
+        "tn": 0,
+        "precision": 0.6778,
+        "recall": 0.8759,
+        "f1": 0.7642
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 33,
+        "fn": 155,
+        "tn": 487,
+        "precision": 0.9707,
+        "recall": 0.8759,
+        "f1": 0.9209
+      }
+    },
+    "0.6": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 155,
+        "tn": 0,
+        "precision": 0.6778,
+        "recall": 0.8759,
+        "f1": 0.7642
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 33,
+        "fn": 155,
+        "tn": 487,
+        "precision": 0.9707,
+        "recall": 0.8759,
+        "f1": 0.9209
+      }
+    },
+    "0.7": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 155,
+        "tn": 0,
+        "precision": 0.6778,
+        "recall": 0.8759,
+        "f1": 0.7642
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 33,
+        "fn": 155,
+        "tn": 487,
+        "precision": 0.9707,
+        "recall": 0.8759,
+        "f1": 0.9209
+      }
+    },
+    "0.8": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 155,
+        "tn": 0,
+        "precision": 0.6778,
+        "recall": 0.8759,
+        "f1": 0.7642
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 33,
+        "fn": 155,
+        "tn": 487,
+        "precision": 0.9707,
+        "recall": 0.8759,
+        "f1": 0.9209
+      }
+    },
+    "0.9": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 155,
+        "tn": 0,
+        "precision": 0.6778,
+        "recall": 0.8759,
+        "f1": 0.7642
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 69,
+        "fn": 155,
+        "tn": 451,
+        "precision": 0.9407,
+        "recall": 0.8759,
+        "f1": 0.9071
+      }
+    }
+  },
+  "per_cwe": {
+    "22": {
+      "baseline": {
+        "tp": 120,
+        "fp": 106,
+        "fn": 0,
+        "tn": 0,
+        "precision": 0.531,
+        "recall": 1.0,
+        "f1": 0.6936
+      },
+      "filtered": {
+        "tp": 120,
+        "fp": 6,
+        "fn": 0,
+        "tn": 100,
+        "precision": 0.9524,
+        "recall": 1.0,
+        "f1": 0.9756
+      }
+    },
+    "78": {
+      "baseline": {
+        "tp": 112,
+        "fp": 96,
+        "fn": 0,
+        "tn": 0,
+        "precision": 0.5385,
+        "recall": 1.0,
+        "f1": 0.7
+      },
+      "filtered": {
+        "tp": 112,
+        "fp": 10,
+        "fn": 0,
+        "tn": 86,
+        "precision": 0.918,
+        "recall": 1.0,
+        "f1": 0.9573
+      }
+    },
+    "79": {
+      "baseline": {
+        "tp": 202,
+        "fp": 108,
+        "fn": 0,
+        "tn": 0,
+        "precision": 0.6516,
+        "recall": 1.0,
+        "f1": 0.7891
+      },
+      "filtered": {
+        "tp": 202,
+        "fp": 5,
+        "fn": 0,
+        "tn": 103,
+        "precision": 0.9758,
+        "recall": 1.0,
+        "f1": 0.9878
+      }
+    },
+    "89": {
+      "baseline": {
+        "tp": 234,
+        "fp": 143,
+        "fn": 0,
+        "tn": 0,
+        "precision": 0.6207,
+        "recall": 1.0,
+        "f1": 0.766
+      },
+      "filtered": {
+        "tp": 234,
+        "fp": 12,
+        "fn": 0,
+        "tn": 131,
+        "precision": 0.9512,
+        "recall": 1.0,
+        "f1": 0.975
+      }
+    },
+    "90": {
+      "baseline": {
+        "tp": 26,
+        "fp": 28,
+        "fn": 0,
+        "tn": 0,
+        "precision": 0.4815,
+        "recall": 1.0,
+        "f1": 0.65
+      },
+      "filtered": {
+        "tp": 26,
+        "fp": 0,
+        "fn": 0,
+        "tn": 28,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "327": {
+      "baseline": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 130,
+        "tn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "filtered": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 130,
+        "tn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "328": {
+      "baseline": {
+        "tp": 89,
+        "fp": 0,
+        "fn": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "filtered": {
+        "tp": 89,
+        "fp": 0,
+        "fn": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "330": {
+      "baseline": {
+        "tp": 218,
+        "fp": 0,
+        "fn": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "filtered": {
+        "tp": 218,
+        "fp": 0,
+        "fn": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "501": {
+      "baseline": {
+        "tp": 43,
+        "fp": 26,
+        "fn": 25,
+        "tn": 0,
+        "precision": 0.6232,
+        "recall": 0.6324,
+        "f1": 0.6277
+      },
+      "filtered": {
+        "tp": 43,
+        "fp": 0,
+        "fn": 25,
+        "tn": 26,
+        "precision": 1.0,
+        "recall": 0.6324,
+        "f1": 0.7748
+      }
+    },
+    "614": {
+      "baseline": {
+        "tp": 36,
+        "fp": 0,
+        "fn": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "filtered": {
+        "tp": 36,
+        "fp": 0,
+        "fn": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "643": {
+      "baseline": {
+        "tp": 14,
+        "fp": 13,
+        "fn": 0,
+        "tn": 0,
+        "precision": 0.5185,
+        "recall": 1.0,
+        "f1": 0.6829
+      },
+      "filtered": {
+        "tp": 14,
+        "fp": 0,
+        "fn": 0,
+        "tn": 13,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    }
+  }
+}

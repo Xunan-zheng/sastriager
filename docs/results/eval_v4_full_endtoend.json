@@ -1,0 +1,328 @@
+{
+  "subset": "all",
+  "cases": 2740,
+  "thresholds": {
+    "0.5": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 321,
+        "tn": 805,
+        "precision": 0.6778,
+        "recall": 0.7731,
+        "f1": 0.7224
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 33,
+        "fn": 321,
+        "tn": 1292,
+        "precision": 0.9707,
+        "recall": 0.7731,
+        "f1": 0.8607
+      }
+    },
+    "0.6": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 321,
+        "tn": 805,
+        "precision": 0.6778,
+        "recall": 0.7731,
+        "f1": 0.7224
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 33,
+        "fn": 321,
+        "tn": 1292,
+        "precision": 0.9707,
+        "recall": 0.7731,
+        "f1": 0.8607
+      }
+    },
+    "0.7": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 321,
+        "tn": 805,
+        "precision": 0.6778,
+        "recall": 0.7731,
+        "f1": 0.7224
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 33,
+        "fn": 321,
+        "tn": 1292,
+        "precision": 0.9707,
+        "recall": 0.7731,
+        "f1": 0.8607
+      }
+    },
+    "0.8": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 321,
+        "tn": 805,
+        "precision": 0.6778,
+        "recall": 0.7731,
+        "f1": 0.7224
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 33,
+        "fn": 321,
+        "tn": 1292,
+        "precision": 0.9707,
+        "recall": 0.7731,
+        "f1": 0.8607
+      }
+    },
+    "0.9": {
+      "baseline": {
+        "tp": 1094,
+        "fp": 520,
+        "fn": 321,
+        "tn": 805,
+        "precision": 0.6778,
+        "recall": 0.7731,
+        "f1": 0.7224
+      },
+      "filtered": {
+        "tp": 1094,
+        "fp": 69,
+        "fn": 321,
+        "tn": 1256,
+        "precision": 0.9407,
+        "recall": 0.7731,
+        "f1": 0.8487
+      }
+    }
+  },
+  "per_cwe": {
+    "22": {
+      "baseline": {
+        "tp": 120,
+        "fp": 106,
+        "fn": 13,
+        "tn": 29,
+        "precision": 0.531,
+        "recall": 0.9023,
+        "f1": 0.6685
+      },
+      "filtered": {
+        "tp": 120,
+        "fp": 6,
+        "fn": 13,
+        "tn": 129,
+        "precision": 0.9524,
+        "recall": 0.9023,
+        "f1": 0.9266
+      }
+    },
+    "78": {
+      "baseline": {
+        "tp": 112,
+        "fp": 96,
+        "fn": 14,
+        "tn": 29,
+        "precision": 0.5385,
+        "recall": 0.8889,
+        "f1": 0.6707
+      },
+      "filtered": {
+        "tp": 112,
+        "fp": 10,
+        "fn": 14,
+        "tn": 115,
+        "precision": 0.918,
+        "recall": 0.8889,
+        "f1": 0.9032
+      }
+    },
+    "79": {
+      "baseline": {
+        "tp": 202,
+        "fp": 108,
+        "fn": 44,
+        "tn": 101,
+        "precision": 0.6516,
+        "recall": 0.8211,
+        "f1": 0.7266
+      },
+      "filtered": {
+        "tp": 202,
+        "fp": 5,
+        "fn": 44,
+        "tn": 204,
+        "precision": 0.9758,
+        "recall": 0.8211,
+        "f1": 0.8918
+      }
+    },
+    "89": {
+      "baseline": {
+        "tp": 234,
+        "fp": 143,
+        "fn": 38,
+        "tn": 89,
+        "precision": 0.6207,
+        "recall": 0.8603,
+        "f1": 0.7211
+      },
+      "filtered": {
+        "tp": 234,
+        "fp": 12,
+        "fn": 38,
+        "tn": 220,
+        "precision": 0.9512,
+        "recall": 0.8603,
+        "f1": 0.9035
+      }
+    },
+    "90": {
+      "baseline": {
+        "tp": 26,
+        "fp": 28,
+        "fn": 1,
+        "tn": 4,
+        "precision": 0.4815,
+        "recall": 0.963,
+        "f1": 0.642
+      },
+      "filtered": {
+        "tp": 26,
+        "fp": 0,
+        "fn": 1,
+        "tn": 32,
+        "precision": 1.0,
+        "recall": 0.963,
+        "f1": 0.9811
+      }
+    },
+    "327": {
+      "baseline": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 130,
+        "tn": 116,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "filtered": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 130,
+        "tn": 116,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "328": {
+      "baseline": {
+        "tp": 89,
+        "fp": 0,
+        "fn": 40,
+        "tn": 107,
+        "precision": 1.0,
+        "recall": 0.6899,
+        "f1": 0.8165
+      },
+      "filtered": {
+        "tp": 89,
+        "fp": 0,
+        "fn": 40,
+        "tn": 107,
+        "precision": 1.0,
+        "recall": 0.6899,
+        "f1": 0.8165
+      }
+    },
+    "330": {
+      "baseline": {
+        "tp": 218,
+        "fp": 0,
+        "fn": 0,
+        "tn": 275,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "filtered": {
+        "tp": 218,
+        "fp": 0,
+        "fn": 0,
+        "tn": 275,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "501": {
+      "baseline": {
+        "tp": 43,
+        "fp": 26,
+        "fn": 40,
+        "tn": 17,
+        "precision": 0.6232,
+        "recall": 0.5181,
+        "f1": 0.5658
+      },
+      "filtered": {
+        "tp": 43,
+        "fp": 0,
+        "fn": 40,
+        "tn": 43,
+        "precision": 1.0,
+        "recall": 0.5181,
+        "f1": 0.6825
+      }
+    },
+    "614": {
+      "baseline": {
+        "tp": 36,
+        "fp": 0,
+        "fn": 0,
+        "tn": 31,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "filtered": {
+        "tp": 36,
+        "fp": 0,
+        "fn": 0,
+        "tn": 31,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "643": {
+      "baseline": {
+        "tp": 14,
+        "fp": 13,
+        "fn": 1,
+        "tn": 7,
+        "precision": 0.5185,
+        "recall": 0.9333,
+        "f1": 0.6667
+      },
+      "filtered": {
+        "tp": 14,
+        "fp": 0,
+        "fn": 1,
+        "tn": 20,
+        "precision": 1.0,
+        "recall": 0.9333,
+        "f1": 0.9655
+      }
+    }
+  }
+}
