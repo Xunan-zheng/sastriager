@@ -74,6 +74,7 @@ on the 100-case pilot, v5 keeps 1 FP versus 0 for v4, with recall unchanged.
 - [Flagged-subset metrics](docs/results/eval_v4_flagged_subset.json)
 - [Injection ASR results](docs/results/eval_injection.json)
 - [Methodology and experiment log](docs/methodology.md)
+- [Technical blog (Chinese)](docs/blog.md)
 - [Interview notes and resume bullets](docs/interview-notes.md)
 
 ## How it works
