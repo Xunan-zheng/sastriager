@@ -3,6 +3,8 @@
 LLM-assisted triage for static analysis findings, evaluated on
 [OWASP Benchmark](https://owasp.org/www-project-benchmark/) v1.2.
 
+Repository: [github.com/Xunan-zheng/sastriager](https://github.com/Xunan-zheng/sastriager)
+
 Semgrep is good at recall but noisy. SASTriager keeps every Semgrep candidate,
 gives an LLM the enclosing method plus same-file and cross-file helper bodies,
 and drops only the findings the model confidently rejects. The result is

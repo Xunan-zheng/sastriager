@@ -229,7 +229,7 @@ git clone --depth 1 https://github.com/OWASP-Benchmark/BenchmarkJava.git data/Be
   --subset all --prompt-version v4
 ```
 
-完整代码、评测脚本、注入实验和 HTML 报告见项目仓库（链接待填）。
+完整代码、评测脚本、注入实验和 HTML 报告见 [GitHub 仓库](https://github.com/Xunan-zheng/sastriager)。
 
 ## 9. 写在最后
 
