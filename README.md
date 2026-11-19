@@ -78,6 +78,7 @@ on the 100-case pilot, v5 keeps 1 FP versus 0 for v4, with recall unchanged.
 - [Methodology and experiment log](docs/methodology.md)
 - [Technical blog (Chinese)](docs/blog.md)
 - [Interview notes and resume bullets](docs/interview-notes.md)
+- [Project-specific interview cheat sheet](docs/interview-cheatsheet.md)
 
 ## How it works
 
